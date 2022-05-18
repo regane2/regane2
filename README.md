@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @regane2
+- 👋 Hi, I’m Regan!
 - 👀 I’m interested in data visualization and making pretty graphs in R. 
 - 🌱 I’m currently learning R and I'm slowly working on python as well! 
 - 💞️ I’m looking to collaborate on pretty graphs!!!
